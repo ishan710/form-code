@@ -26,7 +26,7 @@ function setup() {
 function draw (){
   // count+=1;
   // count = count%height;
-  background(255,0.2*count,0,25);
+  background(255,0.2*count,0,5);
   strokeWeight(2);
   // fill(255);
   // ellipse(mouseX, mouseY, 150);
